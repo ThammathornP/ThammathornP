@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Tham</h1>
 <h3 align="center">I'm a Computer Science student at University of Toronto</h3>
+<img align="right" alt="UofT Logo" width="400" src="https://download.logo.wine/logo/University_of_Toronto/University_of_Toronto-Logo.wine.png">
 
 - 🌱 I’m currently learning **Flutter**
 
