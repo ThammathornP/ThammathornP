@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 My personal website is [https://www.tham.life](https://www.tham.life)
+- 👨‍💻 My personal website is on it's way to be rehosted :/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
