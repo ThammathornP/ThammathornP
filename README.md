@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 My personal website is on it's way to be rehosted :/
+- 👨‍💻 Check out my personal website [here](https://thammathornp.github.io/React-Web/ )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
